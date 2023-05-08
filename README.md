@@ -1,4 +1,4 @@
-``` Hosted link :https://tour-with-tanu.netlify.app/ ```
+ Hosted link :https://tour-with-tanu.netlify.app/ 
 
 # Getting Started with Create React App
 
